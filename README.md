@@ -17,8 +17,11 @@ Visit the magnificent redwoods in the newly revamped Mariposa Grove of giant Seq
 DURATION 5 days 46.8 miles 
 
 road walking: 15.6 miles
+
 trail hiking: 23.3 miles
+
 easy off-trail hiking: 5.8 miles
+
 difficult cross-country travel: 2 miles
 
 Shuttle drive (one-way):  2 hr
