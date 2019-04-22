@@ -92,8 +92,8 @@ There is no class 3 travel planned for any of these hikes.
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     | 1   | 2   | 3   | 4   |
-| 5 | 6 | 7 | 8 | 9 | ~~10~~ | 11 |
+|     |     |     | ~~1~~ | ~~2~~ | ~~3~~ | ~~4~~ |
+| ~~5~~ | 6 | 7 | 8 | 9 | ~~10~~ | 11 |
 | 12 | 13 | 14 | 15 | 16 | ~~17~~ | ~~18~~ |
 | ~~19~~ | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 | |
@@ -110,6 +110,7 @@ There is no class 3 travel planned for any of these hikes.
 |30|||||||
 
 #### July 2019
+
 |Su|Mo|Tu|We|Th|Fr|Sa|
 | --- | --- | --- | --- | --- | --- | --- |
 ||1|2|3|4|5|6|
@@ -119,6 +120,7 @@ There is no class 3 travel planned for any of these hikes.
 |28|29|30|31||||||
 
 #### August 2019
+
 |Su|Mo|Tu|We|Th|Fr|Sa|
 | --- | --- | --- | --- | --- | --- | --- |
 |||||1|2|3|
@@ -128,6 +130,7 @@ There is no class 3 travel planned for any of these hikes.
 |25|26|27|28|29|30|31|
 
 #### September 2019
+
 |Su|Mo|Tu|We|Th|Fr|Sa|
 | --- | --- | --- | --- | --- | --- | --- |
 |1|2|3|4|5|6|7|
@@ -137,6 +140,7 @@ There is no class 3 travel planned for any of these hikes.
 |29|30|||||||||
 
 #### October 2019
+
 |Su|Mo|Tu|We|Th|Fr|Sa|
 | --- | --- | --- | --- | --- | --- | --- |
 |||1|2|3|4|5|
