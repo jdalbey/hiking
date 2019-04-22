@@ -16,12 +16,10 @@ Visit the magnificent redwoods in the newly revamped Mariposa Grove of giant Seq
 
 DURATION 5 days 46.8 miles 
 
-|Terrain|Distance (miles)|
-|-------|----------------|
-|road walking| 15.6|
-|trail hiking| 23.3|
-|easy off-trail hiking| 5.8 |
-|difficult cross-country travel| 2 |
+* road walking: 15.6
+* trail hiking: 23.3
+* easy off-trail hiking: 5.8 
+* difficult cross-country travel: 2 
 
 Shuttle drive (one-way):  2 hr
 
@@ -33,10 +31,10 @@ Visit the General Grant tree then walk along the divide separating the Kings and
 
 DURATION  5-7 days  53 miles 
 
-road walking: 12 miles
-trail hiking: 35 miles
-easy off-trail hiking: 5 miles
-difficult cross-country travel: 1 miles
+ * road walking: 12 miles
+ * trail hiking: 35 miles
+ * easy off-trail hiking: 5 miles
+ * difficult cross-country travel: 1 miles
 
 Shuttle drive (one-way): 5 hr 40 min
 
@@ -48,10 +46,10 @@ Descend to the mighty San Joaquin River and traverse the remote and seldom visit
 
 DURATION  7 days 65 miles 
 
-road walking:  24.7 miles
-trail hiking:  18.2 miles
-easy off-trail hiking:  14.3 miles
-difficult cross-country travel:  7.7 miles
+* road walking:  24.7 miles
+* trail hiking:  18.2 miles
+* easy off-trail hiking:  14.3 miles
+* difficult cross-country travel:  7.7 miles
 
 Shuttle drive (one-way): 3 hr 25 min
 
@@ -63,10 +61,10 @@ Descend from Wishon along a ridge with huge vistas of the North and Middle forks
 
 DURATION  6 days  47 miles 
 
-road walking:  30 miles
-trail hiking:  3 miles
-easy off-trail hiking:  7.7 miles
-difficult cross-country travel:  6.5 miles
+* road walking:  30 miles
+* trail hiking:  3 miles
+* easy off-trail hiking:  7.7 miles
+* difficult cross-country travel:  6.5 miles
 
 Shuttle drive (one-way): 2 hr 50 min
 
