@@ -8,7 +8,7 @@ I've listed the month in which I prefer to do each hike mostly based on typical 
 
 [View my calendar](#Calendar)
 
-### May or early June
+### June
 
 Yosemite to Granite Creek
 
