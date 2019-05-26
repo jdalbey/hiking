@@ -42,7 +42,7 @@ Shuttle drive (one-way): 5 hr 40 min
 
 Granite Creek to Wishon
 
-Descend to the mighty San Joaquin River and traverse the remote and seldom visited landscape to its east.  Enjoy a soak in Mono Hot Springs and visit several large reservoirs that generate hydroelectric power.
+Descend to the mighty San Joaquin River and traverse the remote and seldom visited landscape to its east.  Enjoy a soak in Mono Hot Springs and wander among the magnificent granite domes of Courtwright Reservoir.
 
 DURATION  7 days 65 miles 
 
