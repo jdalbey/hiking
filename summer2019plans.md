@@ -1,8 +1,8 @@
-## Hike with John Summer 2019
+## Hike with John Summer 2020
 
 I'm seeking companions to join me on four hikes I'd like to complete this year.  Brief descriptions are included below.  As described they are one-way hikes and require a shuttle, but I'm  open to doing them as out-and-back or other alternatives. 
 
-I have traveled 90% of the terrain covered by these hikes so I am familiar with the routes and landscape.  Most of it was completed on day hikes or overnight backpack trips and now I'd like to do them as longer trips.
+I have traveled all of the terrain covered by these hikes so I am familiar with the routes and landscape.  Most of it was completed on day hikes or overnight backpack trips and now I'd like to do them as longer trips.
 
 I've listed the month in which I prefer to do each hike mostly based on typical temperatures in the Sierra at the projected elevation.  But I'm open to adjusting the dates.  Send me an email with your availability and desires: `jdalbey@calpoly.edu`
 
@@ -53,7 +53,7 @@ DURATION  7 days 65 miles
 
 Shuttle drive (one-way): 3 hr 25 min
 
-### late September / early October
+### late April or early October
 
 Wishon to Grant Grove
 
