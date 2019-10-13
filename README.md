@@ -1,2 +1,2 @@
 ## John's Hiking Site 
-[Summer 2019](summer2019plans.md)
+[Summer 2020](summer2020plans.md)
