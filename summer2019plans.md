@@ -10,7 +10,7 @@ I've listed the month in which I prefer to do each hike mostly based on typical 
 
 ### June
 
-Yosemite to Granite Creek
+Yosemite to Clover Meadow
 
 Visit the magnificent redwoods in the newly revamped Mariposa Grove of giant Sequoias and the astonishing granite domes guarding the southern entrance to the Ansel Adams Wilderness.
 
@@ -40,7 +40,7 @@ Shuttle drive (one-way): 5 hr 40 min
 
 ### September
 
-Granite Creek to Wishon
+Clover Meadow to Wishon
 
 Descend to the mighty San Joaquin River and traverse the remote and seldom visited landscape to its east.  Enjoy a soak in Mono Hot Springs and wander among the magnificent granite domes of Courtwright Reservoir.
 
@@ -89,49 +89,12 @@ There is no class 3 travel planned for any of these hikes.
 ## <a name="Calendar"></a>Calendar
 
 
-#### June 2019
-
+#### June 2020
 |Su|Mo|Tu|We|Th|Fr|Sa|
 | --- | --- | --- | --- | --- | --- | --- |
-| ~~02~~ | ~~03~~ |4|5|6|7|8|
-|9|10|11|12|13|14|15|
-|~~16~~|17|18|19|20|21|22|
-|23|24|25|~~26~~|~~27~~|~~28~~|~~29~~|
-
-#### July 2019
-
-|Su|Mo|Tu|We|Th|Fr|Sa|
-| --- | --- | --- | --- | --- | --- | --- |
-|~~30~~|~~1~~|2|3|4|5|6|
-|7|8|9|10|11|12|13|
-|14|15|16|17|18|19|20|
-|21|22|23|24|25|26|27|
-|28|29|30|31|1|2|3|
-
-#### August 2019
-
-|Su|Mo|Tu|We|Th|Fr|Sa|
-| --- | --- | --- | --- | --- | --- | --- |
-|4|5|6|7|8|9|10|
-|11|12|13|14|15|16|17|
-|18|19|20|21|22|23|24|
-|25|~~26~~|~~27~~|~~28~~|~~29~~|~~30~~|~~31~~|
-
-#### September 2019
-
-|Su|Mo|Tu|We|Th|Fr|Sa|
-| --- | --- | --- | --- | --- | --- | --- |
-|1|2|3|4|5|6|7|
-|8|9|10|11|12|13|14|
-|15|16|17|18|19|20|21|
-|22|23|24|25|26|27|28|
-
-#### October 2019
-
-|Su|Mo|Tu|We|Th|Fr|Sa|
-| --- | --- | --- | --- | --- | --- | --- |
-|29|30|1|2|~~03~~|~~04~~|~~05~~|
-|~~06~~|~~07~~|8|9|10|11|12|
-|13|14|15|16|17|18|19|
-|20|21|22|23|24|25|26|
-|27|28|29|30|31|||
+|31|1|2|3|4|5|6|
+||||1||2||3||4||5||6|
+|7||8||9|10|11|12|13|
+14|15|16|17|18|19|20|
+21|22|23|24|25|26|27|
+28|29|30|
