@@ -8,7 +8,7 @@ I've listed the month in which I prefer to do each hike mostly based on typical 
 
 [View my calendar](#Calendar)
 
-### June
+### Early June
 
 Yosemite to Clover Meadow
 
@@ -38,7 +38,7 @@ DURATION  5-7 days  53 miles
 
 Shuttle drive (one-way): 5 hr 40 min
 
-### September
+### late June or late September
 
 Clover Meadow to Wishon
 
@@ -53,7 +53,7 @@ DURATION  7 days 65 miles
 
 Shuttle drive (one-way): 3 hr 25 min
 
-### late April or early October
+### early May or early October
 
 Wishon to Grant Grove
 
@@ -88,13 +88,60 @@ There is no class 3 travel planned for any of these hikes.
 
 ## <a name="Calendar"></a>Calendar
 
+#### May 2020
+|Su|Mo|Tu|We|Th|Fr|Sa|
+| --- | --- | --- | --- | --- | --- | --- |
+||||||01|02|          
+03|04|05|06|07|08|09||
+10|11|12|13|14|15|16||
+17|18|19|20|21|22|23||
+24|25|26|27|28|29|30||
+31||||||
 
 #### June 2020
 
 |Su|Mo|Tu|We|Th|Fr|Sa|
 | --- | --- | --- | --- | --- | --- | --- |
-|31|1|2|3|4|5|6|
+||1|2|3|4|5|6|
 |7|8|9|10|11|12|13|
 14|15|16|17|18|19|20|
 21|22|23|24|25|26|27|
 28|29|30|||||
+
+#### July 2020
+Su|Mo|Tu|We|Th|Fr|Sa
+| --- | --- | --- | --- | --- | --- | --- |
+||||01|02|03|04
+05|06|07|08|09|10|11
+12|13|14|15|16|17|18
+19|20|21|22|23|24|25
+26|27|28|29|30|31|
+
+#### August 2020
+Su|Mo|Tu|We|Th|Fr|Sa
+| --- | --- | --- | --- | --- | --- | --- |
+|||||||01
+02|03|04|05|06|07|08
+09|10|11|12|13|14|15
+16|17|18|19|20|21|22
+23|24|25|26|27|28|29
+30|31||||||||
+
+#### September 2020 
+Su|Mo|Tu|We|Th|Fr|Sa
+| --- | --- | --- | --- | --- | --- | --- |
+|||01|02|03|04|05
+06|07|08|09|10|11|12
+13|14|15|16|17|18|19
+20|21|22|23|24|25|26
+27|28|29|30|||||
+
+#### October 2020
+Su|Mo|Tu|We|Th|Fr|Sa
+| --- | --- | --- | --- | --- | --- | --- |
+||||||01|02|03
+04|05|06|07|08|09|10
+11|12|13|14|15|16|17
+18|19|20|21|22|23|24
+25|26|27|28|29|30|31
+
