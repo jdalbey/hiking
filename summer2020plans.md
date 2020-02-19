@@ -89,6 +89,7 @@ There is no class 3 travel planned for any of these hikes.
 ## <a name="Calendar"></a>Calendar
 
 #### May 2020
+
 |Su|Mo|Tu|We|Th|Fr|Sa|
 | --- | --- | --- | --- | --- | --- | --- |
 ||||||01|02|          
@@ -109,6 +110,7 @@ There is no class 3 travel planned for any of these hikes.
 28|29|30|||||
 
 #### July 2020
+
 Su|Mo|Tu|We|Th|Fr|Sa
 | --- | --- | --- | --- | --- | --- | --- |
 ||||01|02|03|04
@@ -118,6 +120,7 @@ Su|Mo|Tu|We|Th|Fr|Sa
 26|27|28|29|30|31|
 
 #### August 2020
+
 Su|Mo|Tu|We|Th|Fr|Sa
 | --- | --- | --- | --- | --- | --- | --- |
 |||||||01
@@ -128,6 +131,7 @@ Su|Mo|Tu|We|Th|Fr|Sa
 30|31||||||||
 
 #### September 2020 
+
 Su|Mo|Tu|We|Th|Fr|Sa
 | --- | --- | --- | --- | --- | --- | --- |
 |||01|02|03|04|05
@@ -137,6 +141,7 @@ Su|Mo|Tu|We|Th|Fr|Sa
 27|28|29|30|||||
 
 #### October 2020
+
 Su|Mo|Tu|We|Th|Fr|Sa
 | --- | --- | --- | --- | --- | --- | --- |
 ||||||01|02|03
