@@ -10,3 +10,5 @@
 
 ### Coon Creek - Oats Pk - Islay Creek - East Boundary - Hazard  (14.3 mi) ###
 
+### Stenner - Shooters - TVtower - Morning Glory (12.3 mi) ###
+[View map](https://jdalbey.github.com/hiking/Maps/Stenner-Shooter-TVtower-MorningGlory.pdf)
