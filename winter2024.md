@@ -1,3 +1,3 @@
 
-# Winter Hikes will appear here.
+# Winter 2024 Hikes will appear here.
 
